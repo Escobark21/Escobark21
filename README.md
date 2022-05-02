@@ -1,18 +1,15 @@
-### Hi there 👋
+### Hi there 👋 i'm karen 
 const aboutMe = {
-   pronouns: "she" | "",
+   pronouns: "she" | "she",
    code: [Javascript,  HTML, CSS, ],
    technologies: {
       frontEnd: {
          js: ["React"],
-         css: []
       },
       backEnd: {
-        
-         js: ["Node"],
-        
+        js: ["Node"],   
    },
-   currentOccupation: ["front end developer lab graduate"],<h3 align="center">A passionate frontend developer from India</h3>
+   currentOccupation: ["front end developer lababoratoria graduate"],<h3 align="center">A passionate frontend developer </h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
