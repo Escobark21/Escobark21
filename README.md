@@ -19,6 +19,7 @@ const aboutMe = {
 <a href="https:/ /linkedin.com/in/https://www.linkedin.com/in/karen-escobar-palomino/" target="blank">
 <img align="center" src="https://raw.githubusercontent. com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/karen-escobar-palomino /" height="30" width="40" /></a>
 </p>
+[![Linkedin: thaianebraga](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/karen-escobar-palomino /)
 <p align="left">
 </p>
 
