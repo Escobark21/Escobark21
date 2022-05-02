@@ -3,10 +3,10 @@ const aboutMe = {
    pronouns: "she" | "she",
    code: [Javascript,  HTML, CSS, ],
    technologies: {
-      frontEnd: {
+   frontEnd: {
          js: ["React"],
       },
-      backEnd: {
+   backEnd: {
         js: ["Node"],   
    },
    currentOccupation: ["front end developer lababoratoria graduate"],<h3 align="center">A passionate frontend developer </h3>
