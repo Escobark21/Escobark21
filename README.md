@@ -9,7 +9,7 @@
  ```javascript
 const aboutMe = {
    pronouns: "She" | "Her",
-   code: [Javascript,  HTML, CSS ],
+   code: [<p  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>Javascript,  HTML, CSS ],
    technologies: {
    frontEnd: {
          js: ["React"],
@@ -24,12 +24,7 @@ const aboutMe = {
 <h3 align="center">A passionate frontend developer</h3>
 
 - 📫 Cómo contactarme **Kdescobar21@gmail.com**
-<p align="left">
-<a href=" https://linkedin.com/in/www.linkedin.com/in/karen-escobar-palomino" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/karen-escobar-palomino" height=" 30" width="40" /></a>
-</p>
-<p align="left">
-<a href=" https://linkedin.com/in/www.linkedin.com/in/karen-escobar-palomino" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/karen-escobar-palomino" height=" 30" width="40" /></a>
-</p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
