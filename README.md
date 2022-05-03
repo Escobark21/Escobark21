@@ -22,6 +22,7 @@ const aboutMe = {
 
 - 📫 Cómo contactarme **Kdescobar21@gmail.com**
 -  <a href="https://www.linkedin.com/in/karen-escobar-palomino"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
+-  <a href="https://github.com/escobark21"><img src="https://img.shields.io/github/followers/priyanshumay.svg?label=GitHub&style=social" alt="GitHub"></a>
 
 
 <h3 align="left">Languages and Tools:</h3>
