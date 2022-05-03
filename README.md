@@ -1,5 +1,8 @@
 <h1 align="center">Hola, soy Karen</h1>
 
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+
  ```javascript
 const aboutMe = {
    pronouns: "She" | "Her",
@@ -18,8 +21,6 @@ const aboutMe = {
 <h3 align="center">Una desarrolladora frontend apasionada</h3>
 
 - 📫 Cómo contactarme **Kdescobar21@gmail.com**
-
-<h3 align="left">Conéctese conmigo:</h3>
 <p align="left">
 <a href=" https://linkedin.com/in/www.linkedin.com/in/karen-escobar-palomino" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/karen-escobar-palomino" height=" 30" width="40" /></a>
 </p>
