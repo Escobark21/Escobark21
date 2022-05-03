@@ -3,13 +3,10 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
 <img align='right' src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="230">
 
-
-
-
  ```javascript
 const aboutMe = {
    pronouns: "She" | "Her",
-   code: [<p  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>Javascript,  HTML, CSS ],
+   code: [Javascript,  HTML, CSS ],
    technologies: {
    frontEnd: {
          js: ["React"],
