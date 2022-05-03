@@ -27,7 +27,7 @@ const aboutMe = {
 
 
 - 📫 Cómo contactarme 
--  <a href="https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](Kdescobar21@gmail.com)</a>
+- [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](Kdescobar21@gmail.com)
 -  <a href="https://www.linkedin.com/in/karen-escobar-palomino"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
 -  <a href="https://github.com/escobark21"><img src="https://img.shields.io/github/followers/priyanshumay.svg?label=GitHub&style=social" alt="GitHub"></a>
 
