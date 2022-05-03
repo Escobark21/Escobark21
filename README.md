@@ -21,6 +21,7 @@ const aboutMe = {
 <h3 align="center">A passionate frontend developer</h3>
 
 - 📫 Cómo contactarme **Kdescobar21@gmail.com**
+-  <a href="https://www.linkedin.com/in/karen-escobar-palomino"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
 
 
 <h3 align="left">Languages and Tools:</h3>
