@@ -26,7 +26,8 @@ const aboutMe = {
  <a href="https: //reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg " alt="reaccionar" width="40" height="40"/> </a>
 
 
-- 📫 Cómo contactarme **Kdescobar21@gmail.com**
+- 📫 Cómo contactarme 
+- [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](Kdescobar21@gmail.com)
 -  <a href="https://www.linkedin.com/in/karen-escobar-palomino"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
 -  <a href="https://github.com/escobark21"><img src="https://img.shields.io/github/followers/priyanshumay.svg?label=GitHub&style=social" alt="GitHub"></a>
 
