@@ -19,7 +19,7 @@ const aboutMe = {
     challenge: "grow step by step.",
 };
 ```
-<h3 align="center">Una desarrolladora frontend apasionada</h3>
+<h3 align="center">A passionate frontend developer</h3>
 
 - 📫 Cómo contactarme **Kdescobar21@gmail.com**
 <p align="left">
